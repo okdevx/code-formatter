@@ -1,2 +1,2 @@
 # code-formatter
-Code Formatter for IDE
+Code Formatter for IDE 
